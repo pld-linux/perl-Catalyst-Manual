@@ -8,13 +8,13 @@
 Summary:	Catalyst::Manual - The Catalyst developer's manual
 Summary(pl.UTF-8):	Catalyst::Manual - podręcznik programisty Catalysta
 Name:		perl-Catalyst-Manual
-Version:	5.8007
+Version:	5.9002
 Release:	1
 Epoch:		1
 License:	GPL v1+ or Artistic
 Group:		Documentation
 Source0:	http://www.cpan.org/modules/by-module/Catalyst/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	9a8b850bacd0cfc3c7e53d31e500da35
+# Source0-md5:	b9dcaf8a7030994af617efea255e03ea
 URL:		http://search.cpan.org/dist/Catalyst-Manual/
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
